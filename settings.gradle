@@ -1,2 +1,2 @@
-include ':app', ':magicindicator', ':matebutton'
+include ':app', ':magicindicator'
 rootProject.name = "magicIndicator"
